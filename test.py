@@ -1,2 +1,2 @@
-print("hello,bug")
+print("123456")
 
